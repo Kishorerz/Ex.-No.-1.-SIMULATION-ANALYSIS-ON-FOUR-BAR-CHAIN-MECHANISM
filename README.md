@@ -1,6 +1,6 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 3.10.2023
 
 ## AIM:
 
@@ -45,16 +45,19 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
 
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
+
+![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
 ## Output:
-![292802209-3e05cee6-3897-4934-ac8a-d55d0bfb4085](https://github.com/KesavDeepak/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139336019/f602077a-2f0d-4b35-8a64-86503dea3e02)
-![292802239-abe49329-4e87-4fa9-bf53-922343d49dfd](https://github.com/KesavDeepak/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139336019/4fe73174-e363-43e8-b55b-9beecac10bcb)
-![292802495-adbad00c-d035-4a11-9508-0a4d6b9dc3f4](https://github.com/KesavDeepak/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139336019/03136c73-e08c-4c14-8de5-8e62d454c00e)
+![image](https://github.com/d-kavinraja/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119875375/703d6f1a-6de3-4936-91e7-054e136a0026)
 
 
-### Name: KISHOR KUMAR B.
+
+### Name:KISHOR KUMAR B.
 ### Register Number: 212223240072
 
 ## RESULT:
